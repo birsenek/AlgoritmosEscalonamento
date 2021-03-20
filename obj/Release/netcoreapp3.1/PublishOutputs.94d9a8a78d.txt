@@ -1,0 +1,5 @@
+D:\Documentos\projetos\AlgoritmosEscalonamento\executavel\AlgoritmosEscalonamento.exe
+D:\Documentos\projetos\AlgoritmosEscalonamento\executavel\AlgoritmosEscalonamento.dll
+D:\Documentos\projetos\AlgoritmosEscalonamento\executavel\AlgoritmosEscalonamento.deps.json
+D:\Documentos\projetos\AlgoritmosEscalonamento\executavel\AlgoritmosEscalonamento.runtimeconfig.json
+D:\Documentos\projetos\AlgoritmosEscalonamento\executavel\AlgoritmosEscalonamento.pdb

@@ -1,0 +1,13 @@
+D:\Documentos\projetos\AlgoritmosEscalonamento\bin\Release\netcoreapp3.1\AlgoritmosEscalonamento.exe
+D:\Documentos\projetos\AlgoritmosEscalonamento\bin\Release\netcoreapp3.1\AlgoritmosEscalonamento.deps.json
+D:\Documentos\projetos\AlgoritmosEscalonamento\bin\Release\netcoreapp3.1\AlgoritmosEscalonamento.runtimeconfig.json
+D:\Documentos\projetos\AlgoritmosEscalonamento\bin\Release\netcoreapp3.1\AlgoritmosEscalonamento.runtimeconfig.dev.json
+D:\Documentos\projetos\AlgoritmosEscalonamento\bin\Release\netcoreapp3.1\AlgoritmosEscalonamento.dll
+D:\Documentos\projetos\AlgoritmosEscalonamento\bin\Release\netcoreapp3.1\AlgoritmosEscalonamento.pdb
+D:\Documentos\projetos\AlgoritmosEscalonamento\obj\Release\netcoreapp3.1\AlgoritmosEscalonamento.csprojAssemblyReference.cache
+D:\Documentos\projetos\AlgoritmosEscalonamento\obj\Release\netcoreapp3.1\AlgoritmosEscalonamento.AssemblyInfoInputs.cache
+D:\Documentos\projetos\AlgoritmosEscalonamento\obj\Release\netcoreapp3.1\AlgoritmosEscalonamento.AssemblyInfo.cs
+D:\Documentos\projetos\AlgoritmosEscalonamento\obj\Release\netcoreapp3.1\AlgoritmosEscalonamento.csproj.CoreCompileInputs.cache
+D:\Documentos\projetos\AlgoritmosEscalonamento\obj\Release\netcoreapp3.1\AlgoritmosEscalonamento.dll
+D:\Documentos\projetos\AlgoritmosEscalonamento\obj\Release\netcoreapp3.1\AlgoritmosEscalonamento.pdb
+D:\Documentos\projetos\AlgoritmosEscalonamento\obj\Release\netcoreapp3.1\AlgoritmosEscalonamento.genruntimeconfig.cache
