@@ -16,7 +16,8 @@ namespace AlgoritmosEscalonamento
             Console.WriteLine("2 - Shortest Job First (SJF)");
             Console.WriteLine("3 - Algorítmo de Prioridades");
             Console.WriteLine("4 - Algorítmo Round Robin");
-            Console.WriteLine("5 - Sair");
+            Console.WriteLine("5 - Gerenciamento de Memória - Segunda Chance");
+            Console.WriteLine("6 - Sair");
             while (tipoDisponivel == false)
             {
                 try
@@ -48,6 +49,9 @@ namespace AlgoritmosEscalonamento
                     break;
                 case 4:
                     RoundRobin.OrdenarRoundRobin();
+                    break;
+                case 5:
+                    SegundaChance.PaginarSegundaChance();
                     break;
                 default:
                     Console.WriteLine("Encerrando o Programa...");
