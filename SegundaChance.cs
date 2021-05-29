@@ -36,9 +36,9 @@ namespace AlgoritmosEscalonamento
             for (int i = 0; i < qtdeProcessos; i++)
             {
                 Processo _processo = new Processo();
-                Console.WriteLine("\nProcesso {0}", i + 1);
+                Console.WriteLine("\nPágina {0}", i + 1);
                 _processo.nome = Console.ReadLine();
-                Console.WriteLine("\nO processo {0} foi utlizado recentement? S/N", _processo.nome);
+                Console.WriteLine("\nO página {0} foi utlizado recentement? S/N", _processo.nome);
                 _processo.isRemovable = Console.ReadLine().ToLower().Equals("s") ? false : true;
                 processos.Add(_processo);
             }
@@ -49,7 +49,7 @@ namespace AlgoritmosEscalonamento
 
             for (int i = 0; i < qtdeProcessos; i++)
             {
-                Console.WriteLine("Processo {0}: {1} / Remover: {2}", i + 1, processos[i].nome, processos[i].isRemovable);
+                Console.WriteLine("Página {0}: {1} / Remover: {2}", i + 1, processos[i].nome, processos[i].isRemovable);
             }
 
             var novosProcessos = new List<Processo> { };
@@ -65,7 +65,7 @@ namespace AlgoritmosEscalonamento
 
             for (int i = 0; i < novosProcessos.Count; i++)
             {
-                Console.WriteLine("Processo {0}: {1} / Remover: {2}", i + 1, novosProcessos[i].nome, novosProcessos[i].isRemovable);
+                Console.WriteLine("Página {0}: {1} / Remover: {2}", i + 1, novosProcessos[i].nome, novosProcessos[i].isRemovable);
             }
 
         }
