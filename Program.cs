@@ -58,7 +58,9 @@ namespace AlgoritmosEscalonamento
                     break;
             }
 
+
             Console.WriteLine("Encerrando Programa...");
+            Console.Read();
         }
     }
 }
